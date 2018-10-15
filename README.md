@@ -8,4 +8,4 @@ The project contains:
   </ul>
 
 This repository contains the Android App source as an Android Studio project.<br/>
-For PC driver refer to <a href="https://github.com/Xismy/SteerServer/tree/master/src">SteerServer</a>.
+For PC driver refer to <a href="https://github.com/Xismy/SteerServer/tree/master">SteerServer</a>.
